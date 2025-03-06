@@ -1,0 +1,8 @@
+package decorator;
+
+public class VnPayPayment implements PaymentDecorator{
+	@Override
+	public void pay() {
+		System.out.println("Thanh toán qua VNPay");
+	}
+}

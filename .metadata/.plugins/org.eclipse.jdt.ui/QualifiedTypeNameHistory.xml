@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="strategy.PaymentStrategy"/>
+    <fullyQualifiedTypeName name="strategy.Order"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="state.PaymentState"/>
+    <fullyQualifiedTypeName name="state.BankTransferState"/>
+    <fullyQualifiedTypeName name="decorator.Payment"/>
+    <fullyQualifiedTypeName name="decorator.PaymentDecorator"/>
+    <fullyQualifiedTypeName name="decorator.VnPayPayment"/>
+</qualifiedTypeNameHistroy>
